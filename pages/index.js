@@ -1,5 +1,7 @@
 export default function Index() {
   return (
-    <div></div>
-  )
+    <div>
+      <h1>ToeBook</h1>
+    </div>
+  );
 }
